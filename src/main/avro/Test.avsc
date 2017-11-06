@@ -1,0 +1,10 @@
+{
+  "name": "Test",
+  "type": "record",
+  "namespace": "com.company.place",
+  "doc": "Just useful for testing the system",
+  "aliases": [],
+  "fields": [
+    { "name": "value", "type": "string" }
+  ]
+}
